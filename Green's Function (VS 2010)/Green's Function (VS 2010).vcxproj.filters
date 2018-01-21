@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\analyzenet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\bicgstab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\blood.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\contour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\contr_lines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\contr_shade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\convect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\eval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\gaussj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\greens.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\histogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\initgreens.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\ludcmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\nrutil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\outboun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\picturenetwork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\putrank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\readsources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\setuparrays0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\setuparrays1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\setuparrays2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\testconvect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\tissrate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Green%27s Function (VS 2010)\Green%27s Function (VS 2010)\nrutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
