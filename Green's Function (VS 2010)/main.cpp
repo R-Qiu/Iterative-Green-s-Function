@@ -11,6 +11,7 @@ See greens.cpp for description of changes.
 #include <string.h>
 #include <math.h>
 #include "nrutil.h"
+#include <Python.h>
 
 void input(void);
 void analyzenet(void);
